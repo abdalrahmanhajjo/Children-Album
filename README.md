@@ -5,7 +5,7 @@ Here's a professional GitHub repository description for your Children Album webs
 
 # Children Album - Digital Memory Keeper
 
-[*Click to use*](https://children-album.great-site.net/children-album/)
+[*Click to use children-album*](https://children-album.great-site.net/children-album/)
 
 A beautiful web application for parents to preserve and organize their children's precious moments. Create digital albums, track milestones, and share memories with family.
 
